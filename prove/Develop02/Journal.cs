@@ -2,7 +2,7 @@ using System;
 
 abstract class Journal
 {
-    public static List<Entry> _entries = new List<Entry>();// These are all the functions to make this journal work 
+    public static List<Entry> _entries = new List<Entry>();// These are all the functions to make this journal work. 
 
     public static void userAddEntry(Entry entry){
         _entries.Add(entry);

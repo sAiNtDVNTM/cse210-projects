@@ -6,7 +6,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Welcome to the journal program!! (❛ ‿ ❛)/ ");// The menu on the program this is where the program start
+        Console.WriteLine("Welcome to the journal program!! (❛ ‿ ❛)/ ");// The menu on the program this is where the program start.
         Console.WriteLine("Please select one of the following choices. ");
         while (true)
         {
@@ -15,7 +15,7 @@ class Program
             Console.WriteLine("3. Load");
             Console.WriteLine("4. Save");
             Console.WriteLine("5. Quit");
-            Console.WriteLine("What would you like to do? 1-5"); // User need to enter the options 
+            Console.WriteLine("What would you like to do? 1-5"); // User need to enter the options. 
             string choice = Console.ReadLine();
 
             switch (choice) 

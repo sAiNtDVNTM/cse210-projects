@@ -1,6 +1,6 @@
 using System;
 
-class Entry// this is the class entry so we can use it to receive the entries user 
+class Entry// this is the class entry so we can use it to receive the entries user.
 {
     public string _date { get; }
     public string _promptText { get; }

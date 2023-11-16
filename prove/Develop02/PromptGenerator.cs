@@ -2,7 +2,7 @@ using System;
 
 public abstract class PromptGenerator
 {
-    public static List<string> Prompts = new List<string>()// This is the class to generate the random prompt 
+    public static List<string> Prompts = new List<string>()// This is the class to generate the random prompt. 
         {
                 "What was the best part of your day?",
                 "What was the dream of the day?",
